@@ -1,0 +1,64 @@
+body, html{
+overflow-y: scroll;
+
+}
+#page-wrap		    {  width: 100px; margin: 0 auto; }
+table {
+border-collapse: separate;
+border-spacing: 0;
+
+color: #4a4a4d;
+font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+caption{
+    margin: 10px 0; font: 40px Georgia, Serif;
+    color: #646375;
+}
+
+
+
+a{
+  color: black;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #646375;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+
+th,td {
+border: 1px solid #ddd;
+    padding: 4px;
+text-align: center;
+}
+thead {
+background-color: : #646375;
+text-align: center;
+font-size: 11px;
+text-transform: uppercase;
+}
+
+tbody tr:nth-child(even) {
+
+background-color: #f2f2f2;
+}
+tbody tr:nth-child(odd) {
+color: #646375;
+}
+td {
+border-radius: 5px;
+width: auto;
+}
+th{
+  border-radius: 5px;
+width: auto;
+}
+label{
+  color: black;
+}

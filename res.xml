@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<restaurant>
+	<res>
+		<name>MRP</name>
+		<tel>2147483647</tel>
+		<ploc>Mumbai</ploc>
+	</res>
+	<res>
+		<name>Taj Mainlands</name>
+		<tel>2147483647</tel>
+		<ploc>Mumbai</ploc>
+	</res>
+	<res>
+		<name>5 Spice</name>
+		<tel>772452784</tel>
+		<ploc>Mumbai</ploc>
+	</res>
+</restaurant>
